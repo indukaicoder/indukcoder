@@ -1,4 +1,4 @@
-# Convesi Uang
+# Conversi Uang
 ini adalah cara untuk mengkonversi angka biasa menjadi pecahan mata uang
 
 contohnya 1000 menjadi Rp 1.000
